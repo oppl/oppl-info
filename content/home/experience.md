@@ -94,7 +94,6 @@ experience:
     date_end: '2005-02-28'
     description: XY
 
-
 design:
   columns: '2'
 ---
