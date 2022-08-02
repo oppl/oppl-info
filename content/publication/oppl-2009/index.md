@@ -8,7 +8,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: 2009-12-01-01
+date: 2009-12-01
 lastmod: 2022-08-02T14:42:57+02:00
 featured: false
 draft: false

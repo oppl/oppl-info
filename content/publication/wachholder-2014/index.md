@@ -10,7 +10,7 @@ authors:
 - admin
 tags: []
 categories: []
-date: 2014-09-01-01
+date: 2014-09-01
 lastmod: 2022-08-02T14:42:58+02:00
 featured: false
 draft: false

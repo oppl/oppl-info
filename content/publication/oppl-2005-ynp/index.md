@@ -9,7 +9,7 @@ authors:
 - C Stary
 tags: []
 categories: []
-date: 2005-09-01-01
+date: 2005-09-01
 lastmod: 2022-08-02T14:42:52+02:00
 featured: false
 draft: false

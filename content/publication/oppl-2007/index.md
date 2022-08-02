@@ -9,7 +9,7 @@ authors:
 - P Peherstorfer
 tags: []
 categories: []
-date: 2007-08-01-01
+date: 2007-08-01
 lastmod: 2022-08-02T14:42:52+02:00
 featured: false
 draft: false
