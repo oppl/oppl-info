@@ -43,8 +43,8 @@ highlight_name: true
 title: Stefan Oppl
 email: ""
 ---
-Full Professor of Technology Enhanced Learning at the Department of Continuing Education Research and Educational Technologies at the Danube University Krems, Austria. Studied computer science and applied knowledge management, PhD in computer science at the Technical University Vienna in 2010. Assistant/Associate Professor of Business Informatics at Johannes Kepler University Linz from 2010 to 2019. 
+I am a full professor of technology enhanced learning at the Department of Continuing Education Research and Educational Technologies at the Danube University Krems, Austria. I studied computer science and applied knowledge management and did my PhD in computer science at the Technical University Vienna in 2010. I have been an assistant/associate professor of business informatics at Johannes Kepler University Linz from 2010 to 2019. 
 
-Coordinated FP7-founded research project IANES, Leonardo-da-Vinci Transfer-of-Innovation project FARAW and the Erasmus IP SURGEOM between 2010 and 2015. Visiting Research Fellow at Radboud University Nijmegen in 2016/17.
+I coordinated the FP7-founded research project IANES, the Leonardo-da-Vinci Transfer-of-Innovation project FARAW and the Erasmus IP SURGEOM between 2010 and 2015. In 2016/17, I have been a visiting research fellow at Radboud University Nijmegen.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
