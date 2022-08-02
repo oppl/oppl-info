@@ -62,37 +62,37 @@ experience:
     date_end: '2017-11-30'
     description: XY
  
-#  - title: PostDoc Research Fellow (Erwin-Schrödinger-Fellowship)
-#     company: Radboud University
-#     company_url: 'https://www.ru.nl'
-#     location: Nijmegen, The Netherlands
-#     date_start: '2016-05-01'
-#     date_end: '2017-02-28'
-#     description: XY
+  - title: PostDoc Research Fellow (Erwin-Schrödinger-Fellowship)
+    company: Radboud University
+    company_url: 'https://www.ru.nl'
+    location: Nijmegen, The Netherlands
+    date_start: '2016-05-01'
+    date_end: '2017-02-28'
+    description: XY
  
-#  - title: Marie Curie Fellow (PostDoc)
-#     company: Metasonic AG
-#     company_url: 'https://www.metasonic.de'
-#     location: Pfaffenhofen, Germany
-#     date_start: '2011-10-01'
-#     date_end: '2012-01-31'
-#     description: XY
+  - title: Marie Curie Fellow (PostDoc)
+    company: Metasonic AG
+    company_url: 'https://www.metasonic.de'
+    location: Pfaffenhofen, Germany
+    date_start: '2011-10-01'
+    date_end: '2012-01-31'
+    description: XY
 
-#   - title: Researcher and Lecturer
-#     company: Johannes Kepler University Linz
-#     company_url: 'https://www.jku.at'
-#     location: Linz, Austria
-#     date_start: '2005-03-01'
-#     date_end: '2011-09-30'
-#     description: XY
+  - title: Researcher and Lecturer
+    company: Johannes Kepler University Linz
+    company_url: 'https://www.jku.at'
+    location: Linz, Austria
+    date_start: '2005-03-01'
+    date_end: '2011-09-30'
+    description: XY
 
-#   - title: Junior Researcher
-#     company: Johannes Kepler University Linz
-#     company_url: 'https://www.jku.at'
-#     location: Linz, Austria
-#     date_start: '2003'
-#     date_end: '2005-02-28'
-#     description: XY
+  - title: Junior Researcher
+    company: Johannes Kepler University Linz
+    company_url: 'https://www.jku.at'
+    location: Linz, Austria
+    date_start: '2003'
+    date_end: '2005-02-28'
+    description: XY
 
 design:
   columns: '2'
