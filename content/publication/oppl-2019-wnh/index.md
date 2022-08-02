@@ -6,11 +6,11 @@ title: Wirkung von Incentives zur aktiven Partizipation in universitären LVA oh
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-08-02T14:30:45+02:00
+lastmod: 2022-08-02T14:43:07+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:45.484217Z'
+publishDate: '2022-08-02T12:43:07.744377Z'
 publication_types:
 - '1'
 abstract: ''

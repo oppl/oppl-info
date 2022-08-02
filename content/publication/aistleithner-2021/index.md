@@ -6,11 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Andrea Aistleithner
-- Stefan Oppl
+- admin
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-08-02T14:30:48+02:00
+lastmod: 2022-08-02T14:43:10+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:48.060045Z'
+publishDate: '2022-08-02T12:43:10.212782Z'
 publication_types:
 - '1'
 abstract: Nowadays people spend more and more time on their mobile phones and are

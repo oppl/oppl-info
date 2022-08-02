@@ -5,12 +5,12 @@ title: Value-Oriented Articulation
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 - Christian Stary
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-08-02T14:30:43+02:00
+lastmod: 2022-08-02T14:43:05+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:43.184896Z'
+publishDate: '2022-08-02T12:43:05.558417Z'
 publication_types:
 - '6'
 abstract: In this chapter, business enablers and resources are at the center of interest,

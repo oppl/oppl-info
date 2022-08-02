@@ -5,12 +5,12 @@ title: Enabling Emergent Workplace Design
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 - Christian Stary
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-08-02T14:30:43+02:00
+lastmod: 2022-08-02T14:43:06+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:43.706292Z'
+publishDate: '2022-08-02T12:43:06.070048Z'
 publication_types:
 - '6'
 abstract: This chapter offers a synthesis of the conceptual and methodological considerations

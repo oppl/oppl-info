@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Albert Fleischmann
-- Stefan Oppl
+- admin
 - Werner Schmidt
 - Christian Stary
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-08-02T14:30:43+02:00
+lastmod: 2022-08-02T14:43:05+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:35.871117Z'
+publishDate: '2022-08-02T12:43:05.220742Z'
 publication_types:
 - '6'
 abstract: Das folgende Fallbeispiel zeigt, wie einige der beschriebenen Konzepte,

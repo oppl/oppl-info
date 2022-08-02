@@ -6,12 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Martin Dobiasch
-- Stefan Oppl
+- admin
 tags:
 - ''
 categories: []
 date: '2020-09-01'
-lastmod: 2022-08-02T14:30:47+02:00
+lastmod: 2022-08-02T14:43:10+02:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:47.707979Z'
+publishDate: '2022-08-02T12:43:09.882654Z'
 publication_types:
 - '2'
 abstract: ''

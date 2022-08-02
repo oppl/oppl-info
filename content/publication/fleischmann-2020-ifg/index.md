@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Albert Fleischmann
-- Stefan Oppl
+- admin
 - Werner Schmidt
 - Christian Stary
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-08-02T14:30:46+02:00
+lastmod: 2022-08-02T14:43:09+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:46.838350Z'
+publishDate: '2022-08-02T12:43:09.057403Z'
 publication_types:
 - '5'
 abstract: ''

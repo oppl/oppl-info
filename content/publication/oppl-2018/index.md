@@ -6,11 +6,11 @@ title: Zum Umgang mit Heterogenität in gestaltungsorientierten Lehrveranstaltun
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-08-02T14:30:43+02:00
+lastmod: 2022-08-02T14:43:05+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:43.018351Z'
+publishDate: '2022-08-02T12:43:05.396505Z'
 publication_types:
 - '1'
 abstract: ''

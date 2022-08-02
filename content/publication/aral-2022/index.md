@@ -6,11 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Nilay Aral
-- Stefan Oppl
+- admin
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-02T14:30:48+02:00
+lastmod: 2022-08-02T14:43:10+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:48.426782Z'
+publishDate: '2022-08-02T12:43:10.537622Z'
 publication_types:
 - '6'
 abstract: Developing mathematical skills requires the opportunity to practice and

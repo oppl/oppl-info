@@ -6,13 +6,13 @@ title: Zur inhaltlichen Schwerpunktsetzung im Rahmen der verbindlichen Ãœbung â€
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 - Wolfgang Fuchs
 - Martin Dobiasch
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-08-02T14:30:49+02:00
+lastmod: 2022-08-02T14:43:11+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:49.081773Z'
+publishDate: '2022-08-02T12:43:11.210211Z'
 publication_types:
 - '2'
 abstract: ''

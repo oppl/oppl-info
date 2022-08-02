@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Martin Dobiasch
-- Stefan Oppl
+- admin
 tags:
 - ePortfolio; usage patterns; Mahara; lifelong-learning
 categories: []
 date: '2021-01-01'
-lastmod: 2022-08-02T14:30:48+02:00
+lastmod: 2022-08-02T14:43:10+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:48.231542Z'
+publishDate: '2022-08-02T12:43:10.373773Z'
 publication_types:
 - '1'
 abstract: ePortfolio-platforms are popular tools to facilitate and promote lifelong

@@ -5,14 +5,14 @@ title: Examining Audience Retention in Educational Videos - Potential and Method
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 - Anja Gutmann
 - Ivan Lazic
 - Florian Mühlburger
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-08-02T14:30:45+02:00
+lastmod: 2022-08-02T14:43:07+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:45.131382Z'
+publishDate: '2022-08-02T12:43:07.419128Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,14 +6,14 @@ title: Erhebung und Konzeptentwicklung zur Erreichbarkeit von Jugendlichen sowie
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 - Karin Steiner
 - Agnes Dürr
 - Felix Krammer
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-08-02T14:30:50+02:00
+lastmod: 2022-08-02T14:43:12+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:50.062584Z'
+publishDate: '2022-08-02T12:43:12.258638Z'
 publication_types:
 - '4'
 abstract: ''

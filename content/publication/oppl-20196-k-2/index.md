@@ -5,12 +5,12 @@ title: Designing Digital Work, Concepts and Methods for Human-centered Digitizat
 subtitle: ''
 summary: ''
 authors:
-- Stefan Oppl
+- admin
 - Christian Stary
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-08-02T14:30:44+02:00
+lastmod: 2022-08-02T14:43:07+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:44.609852Z'
+publishDate: '2022-08-02T12:43:06.928747Z'
 publication_types:
 - '6'
 abstract: This chapter discusses elicitation of knowledge in work process design and

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Attila Pausits
-- Stefan Oppl
+- admin
 - Sandra Schön
 - Magdalena Fellner
 - David F. J. Campbell
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-02T14:30:51+02:00
+lastmod: 2022-08-02T14:43:13+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:51.207251Z'
+publishDate: '2022-08-02T12:43:13.483185Z'
 publication_types:
 - '6'
 abstract: ''

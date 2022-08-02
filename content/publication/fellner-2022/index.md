@@ -9,11 +9,11 @@ authors:
 - Magdalena Fellner
 - Attila Pausits
 - Thomas Pfeffer
-- Stefan Oppl
+- admin
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-02T14:30:50+02:00
+lastmod: 2022-08-02T14:43:13+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:50.716533Z'
+publishDate: '2022-08-02T12:43:12.963638Z'
 publication_types:
 - '5'
 abstract: ''

@@ -8,11 +8,11 @@ summary: ''
 authors:
 - Martin Dobiasch
 - Magdalena Fellner
-- Stefan Oppl
+- admin
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-08-02T14:30:49+02:00
+lastmod: 2022-08-02T14:43:12+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:30:49.737234Z'
+publishDate: '2022-08-02T12:43:11.915828Z'
 publication_types:
 - '2'
 abstract: ''
