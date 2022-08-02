@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Contact
 subtitle:
@@ -25,32 +25,24 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: stefan.oppl@donau-uni.ac.at
+  phone: +43 2732 893-2500
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Dr.-Karl-Dorrek-Straße 30
+    city: Krems
+    postcode: '3500'
+    country: Austria
+    country_code: AT
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '48.407885'
+    longitude: '15.586026'
+  directions: Enter Building Altbau, and take the stairs to 2nd Floor, Tract L, Room 2.208-1 
+  office_hours: upon appointment
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/stefanoppl'
 
 design:
   columns: '2'
