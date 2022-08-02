@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-02T12:43:10.212782Z'
 publication_types:
 - '1'
 abstract: Nowadays people spend more and more time on their mobile phones and are
