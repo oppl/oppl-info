@@ -29,6 +29,9 @@ organizations:
     url: https://www.donau-uni.ac.at/en.html
 education:
   courses:
+    - course: Venia Docendi in Business Informatics
+      institution: University of Linz
+      year: 2017
     - course: PhD in Computer Science
       institution: Technical University of Vienna
       year: 2010
