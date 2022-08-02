@@ -14,7 +14,7 @@ summary: ""
 lastmod: 2022-08-02T14:43:00+02:00
 publication: "*Information & Management*"
 featured: true
-date: 2016-02-01-01
+date: '2016-02-01'
 links:
   - name: URL
     url: http://www.sciencedirect.com/science/article/pii/S0378720616300015
