@@ -50,20 +50,20 @@ experience:
     date_start: '2017-12-01'
     date_end: '2019-08-31'
 
+  - title: PostDoc Research Fellow (Erwin-Schrödinger-Fellowship)
+    company: Radboud University
+    company_url: ‚https://www.ru.nl‘
+    location: Nijmegen, The Netherlands
+    date_start: ‚2016-05-01‘
+    date_end: ‚2017-02-28‘
+
   - title: Assistant Professor
     company: Johannes Kepler University Linz
     company_url: 'https://www.jku.at'
     location: Linz, Austria
     date_start: '2012-02-01'
     date_end: '2017-11-30'
- 
-  - title: PostDoc Research Fellow (Erwin-Schrödinger-Fellowship)
-    company: Radboud University
-    company_url: 'https://www.ru.nl'
-    location: Nijmegen, The Netherlands
-    date_start: '2016-05-01'
-    date_end: '2017-02-28'
- 
+  
   - title: Marie Curie Fellow (PostDoc)
     company: Metasonic AG
     company_url: 'https://www.metasonic.de'

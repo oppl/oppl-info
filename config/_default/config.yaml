@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Stefan Oppl # Website name
-baseURL: 'https://stefan.oppl.info/' # Website URL
+baseURL: 'https://www.oppl.info/' # Website URL
 
 ############################
 ## LANGUAGE
