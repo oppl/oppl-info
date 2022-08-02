@@ -54,13 +54,13 @@ experience:
     date_end: '2019-08-31'
     description: XY
 
-#   - title: Assistant Professor
-#     company: Johannes Kepler University Linz
-#     company_url: 'https://www.jku.at'
-#     location: Linz, Austria
-#     date_start: '2012-02-01'
-#     date_end: '2017-11-30'
-#     description: XY
+  - title: Assistant Professor
+    company: Johannes Kepler University Linz
+    company_url: 'https://www.jku.at'
+    location: Linz, Austria
+    date_start: '2012-02-01'
+    date_end: '2017-11-30'
+    description: XY
  
 #  - title: PostDoc Research Fellow (Erwin-Schrödinger-Fellowship)
 #     company: Radboud University
