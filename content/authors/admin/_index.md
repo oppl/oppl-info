@@ -1,77 +1,50 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: Professor for Technology-Enhanced Learning
+avatar_filename: me-square.jpg
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Educational Technology
+  - Information Systems (Business Informatics)
+  - Human-computer Interaction
+  - Computer and Society
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/StefanOppl
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.at/citations?user=TDn8BEYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/oppl
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/stefanoppl/
+organizations:
+  - name: University for Continuing Education Krems
+    url: https://www.donau-uni.ac.at/en.html
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: Technical University of Vienna
+      year: 2010
+    - course: MBA in Applied Knowledge Management
+      institution: University of Linz
+      year: 2007
+    - course: Master in Computer Science
+      institution: University of Linz
+      year: 2004
+superuser: true
 highlight_name: true
+title: Stefan Oppl
+email: ""
 ---
+Full Professor of Technology Enhanced Learning at the Department of Continuing Education Research and Educational Technologies at the Danube University Krems, Austria. Studied computer science and applied knowledge management, PhD in computer science at the Technical University Vienna in 2010. Assistant/Associate Professor of Business Informatics at Johannes Kepler University Linz from 2010 to 2019. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Coordinated FP7-founded research project IANES, Leonardo-da-Vinci Transfer-of-Innovation project FARAW and the Erasmus IP SURGEOM between 2010 and 2015. Visiting Research Fellow at Radboud University Nijmegen in 2016/17.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
