@@ -52,10 +52,10 @@ experience:
 
   - title: PostDoc Research Fellow (Erwin-Schrödinger-Fellowship)
     company: Radboud University
-    company_url: ‚https://www.ru.nl‘
+    company_url: 'https://www.ru.nl'
     location: Nijmegen, The Netherlands
-    date_start: ‚2016-05-01‘
-    date_end: ‚2017-02-28‘
+    date_start: '2016-05-01'
+    date_end: '2017-02-28'
 
   - title: Assistant Professor
     company: Johannes Kepler University Linz
