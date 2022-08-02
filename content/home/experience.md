@@ -29,6 +29,13 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
 
+  - title: Head of the Department for Continuing Education Research and Educational Technologies
+    company: University for Continuning Education Krems
+    company_url: 'https://www.donau-uni.ac.at/en'
+    location: Krems, Austria
+    date_start: '2020-02-01'
+    date_end: ''
+
   - title: Professor for Technology Enhanced Learning
     company: University for Continuning Education Krems
     company_url: 'https://www.donau-uni.ac.at/en'
