@@ -1,0 +1,44 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Modeling Languages
+subtitle: ''
+summary: ''
+authors:
+- Albert Fleischmann
+- Stefan Oppl
+- Werner Schmidt
+- Christian Stary
+tags: []
+categories: []
+date: '2020-01-01'
+lastmod: 2022-08-02T14:30:46+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-08-02T12:30:46.167577Z'
+publication_types:
+- '6'
+abstract: Modeling languages determine the concepts that can be used to describe an
+  extract from perceived reality and how these concepts can be put into mutual relationship.
+  Modeling languages thus provide the vocabulary and the grammar needed to represent
+  real-life situations in models. They will subsequently be considered in a structured
+  way.
+publication: '*Contextual Process Digitalization: Changing Perspectives – Design Thinking
+  – Value-Led Design*'
+doi: 10.1007/978-3-030-38300-8_3
+---
