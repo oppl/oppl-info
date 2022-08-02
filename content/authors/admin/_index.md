@@ -47,4 +47,4 @@ Full Professor of Technology Enhanced Learning at the Department of Continuing E
 
 Coordinated FP7-founded research project IANES, Leonardo-da-Vinci Transfer-of-Innovation project FARAW and the Erasmus IP SURGEOM between 2010 and 2015. Visiting Research Fellow at Radboud University Nijmegen in 2016/17.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
