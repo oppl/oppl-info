@@ -1,8 +1,8 @@
 ---
 role: Professor for Technology Enhanced Learning
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include technology enhanced learning, socio-technical
+  systems design and HCI
 interests:
   - Educational Technology
   - Information Systems (Business Informatics)
