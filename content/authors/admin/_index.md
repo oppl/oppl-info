@@ -1,5 +1,5 @@
 ---
-role: Professor for Technology-Enhanced Learning
+role: Professor for Technology Enhanced Learning
 avatar_filename: me-square.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
