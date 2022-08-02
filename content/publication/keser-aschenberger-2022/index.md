@@ -9,7 +9,7 @@ authors:
   - Gregor Radinger
   - Sonja Brachtl
   - Christina Ipser
-  - Stefan Oppl
+  - admin
 doi: 10.1007/s10984-022-09406-0
 abstract: "Since the outbreak of the COVID-19 pandemic in 2020, digital
   technologies for distance learning have been used in educational institutions
