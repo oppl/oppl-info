@@ -90,7 +90,7 @@ experience:
     company: Johannes Kepler University Linz
     company_url: 'https://www.jku.at'
     location: Linz, Austria
-    date_start: '2003'
+    date_start: '2003-04-01'
     date_end: '2005-02-28'
     description: XY
 
