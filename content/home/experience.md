@@ -28,7 +28,6 @@ experience:
     location: Krems, Austria
     date_start: '2021-11-01'
     date_end: ''
-    description: XY
 
   - title: Professor for Technology Enhanced Learning
     company: University for Continuning Education Krems
@@ -36,7 +35,6 @@ experience:
     location: Krems, Austria
     date_start: '2019-09-01'
     date_end: ''
-    description: XY
 
   - title: Lecturer
     company: University of Applied Sciences Upper Austria
@@ -44,7 +42,6 @@ experience:
     location: Steyr, Austria
     date_start: '2007-02-01'
     date_end: ''
-    description: XY
 
   - title: Associate Professor
     company: Johannes Kepler University Linz
@@ -52,7 +49,6 @@ experience:
     location: Linz, Austria
     date_start: '2017-12-01'
     date_end: '2019-08-31'
-    description: XY
 
   - title: Assistant Professor
     company: Johannes Kepler University Linz
@@ -60,7 +56,6 @@ experience:
     location: Linz, Austria
     date_start: '2012-02-01'
     date_end: '2017-11-30'
-    description: XY
  
   - title: PostDoc Research Fellow (Erwin-Schrödinger-Fellowship)
     company: Radboud University
@@ -68,7 +63,6 @@ experience:
     location: Nijmegen, The Netherlands
     date_start: '2016-05-01'
     date_end: '2017-02-28'
-    description: XY
  
   - title: Marie Curie Fellow (PostDoc)
     company: Metasonic AG
@@ -76,7 +70,6 @@ experience:
     location: Pfaffenhofen, Germany
     date_start: '2011-10-01'
     date_end: '2012-01-31'
-    description: XY
 
   - title: Researcher and Lecturer
     company: Johannes Kepler University Linz
@@ -84,7 +77,6 @@ experience:
     location: Linz, Austria
     date_start: '2005-03-01'
     date_end: '2011-09-30'
-    description: XY
 
   - title: Junior Researcher
     company: Johannes Kepler University Linz
@@ -92,7 +84,6 @@ experience:
     location: Linz, Austria
     date_start: '2003-04-01'
     date_end: '2005-02-28'
-    description: XY
 
 design:
   columns: '2'
