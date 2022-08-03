@@ -3,7 +3,10 @@ title: CodeAbility Austria
 date: 2022-08-02T15:06:21.881Z
 draft: false
 featured: false
-external_link: https://codeability.uibk.ac.at
+external_link: ""
+links:
+  - url: https://codeability.uibk.ac.at/
+    name: Project Website
 image:
   filename: featured
   focal_point: Smart
