@@ -3,7 +3,7 @@ title: DigiFit4All
 date: 2022-08-03T04:11:55.908Z
 draft: false
 featured: false
-external_link: https://www.digifit4all.at/
+external_link: ""
 links:
   - url: https://www.digifit4all.at/
     name: Project Website
