@@ -4,8 +4,8 @@ abstract: Präsentation einer Untersuchung zur inhaltlichen Schwerpunktsetzung i
   Rahmen der verbindlichen Übung „Digitale Grundbildung“ an österreichischen
   Mittelschulen, gehalten im Rahmen der eEducation Fachtagung 2021.
 location: Online
-date: 2021-11-18T16:00:30.739Z
-date_end: 2021-11-18T16:30:49.363Z
+date: 2021-11-18T17:00:30.739Z
+date_end: 2021-11-18T17:30:49.363Z
 all_day: false
 links:
   - url: https://youtu.be/b_0Nz-pIUNc
