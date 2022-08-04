@@ -54,8 +54,8 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  time_format: '15:04'
+  address_format: de
 
 # Site features
 
@@ -68,7 +68,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
