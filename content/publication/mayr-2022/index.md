@@ -32,7 +32,7 @@ abstract: Providing access to higher education for people in marginalized
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: 10639.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-08-04
