@@ -2,7 +2,7 @@
 title: Higher Education at the Margins – Success Criteria for Blended Learning
   Systems for Marginalized Communities
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Anna Mayr
   - admin
@@ -35,5 +35,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-08-04T11:00:58.282Z
+date: 2022-08-04
 ---
