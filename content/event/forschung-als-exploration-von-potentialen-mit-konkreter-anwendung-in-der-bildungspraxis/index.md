@@ -4,8 +4,8 @@ title: Forschung als Exploration von Potentialen mit konkreter Anwendung in der
 abstract: Inaugural lecture given in German at the University for Continuing
   Education Krems on 18 May 2021
 location: Krems, Austria
-date: 2021-05-18T08:00:00.000Z
-date_end: 2021-05-18T09:00:00.000Z
+date: 2021-05-18T10:00:00.000Z
+date_end: 2021-05-18T11:00:00.000Z
 all_day: false
 links:
   - url: https://youtu.be/4K6mhAqmT7s
