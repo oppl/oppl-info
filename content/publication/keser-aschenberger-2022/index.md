@@ -49,10 +49,11 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: 10984.jpg
 summary: ""
 lastmod: 2022-08-02T14:43:11+02:00
 publication: "*Learning Environments Research*"
 featured: true
 date: 2022-01-01
-publishDate: 2022-08-02T12:43:11.371619Z
+publishDate: 2022-08-02T12:43:11.371Z
 ---
