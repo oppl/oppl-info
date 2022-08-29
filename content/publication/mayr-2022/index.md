@@ -6,7 +6,8 @@ publication_types:
 authors:
   - Anna Mayr
   - admin
-publication: Education and Information Technologies
+publication: "*Education and Information Technologies*"
+doi: 10.1007/s10639-022-11282-3
 abstract: Providing access to higher education for people in marginalized
   communities, in particular for refugees, requires to re-think the traditional
   ways of teaching and learning in higher education institutions. The challenges
