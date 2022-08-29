@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Stefan Oppl # Website name
+title: Private Website of Stefan Oppl # Website name
 baseURL: 'https://www.oppl.info/' # Website URL
 
 ############################
