@@ -33,7 +33,7 @@ projects: []
 publishDate: '2022-08-02T12:43:07.419128Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'In-depth analysis of viewing behavior is an impor- tant factor informing educational video design. Research has largely addressed the support of such analyses for individual learners or has relied on aggregating user interactions with video players to derive potential points of interest. Only in recent years, with rising use of commercial video hosting platform, the data necessary to analyze viewing behavior on a larger scale and independently of active user interactions with learning content has become widely available. This article proposes to examine audience retention data to obtain in-depth information about the usage of educational videos and calculate metrics that can serve as a starting point for qualitatively examining the effects of didactic video design decisions. We propose a set of metrics and present a toolchain for extracting the necessary data from YouTube Analytics and calculating these metrics. The usefulness of these metrics is showcased on three different scenarios of use that are backed with real-world analytics data from flipped classroom courses. Our results show that the detailed audience retention data provided by video hosting platforms can provide insights that go beyond the current state-of-the-art in in-video learning analytics.'
 publication: '*Proc. of the 18th International Conference on Information Technology
   Based Higher Education and Training (ITHET)*'
 doi: 10.1109/ithet46829.2019.8937364
