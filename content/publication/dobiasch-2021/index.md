@@ -8,8 +8,6 @@ summary: ''
 authors:
 - Martin Dobiasch
 - admin
-tags:
-- ePortfolio; usage patterns; Mahara; lifelong-learning
 categories: []
 date: '2021-01-01'
 lastmod: 2022-08-02T14:43:10+02:00

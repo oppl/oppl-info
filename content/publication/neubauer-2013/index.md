@@ -9,8 +9,6 @@ authors:
 - admin
 - C Stary
 - Georg Weichhart
-tags:
-- Transactive Memory
 categories: []
 date: '2013-01-01'
 lastmod: 2022-08-02T14:42:57+02:00
