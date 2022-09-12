@@ -9,7 +9,7 @@ authors:
 - Clemens Sauerwein
 - Simon Priller
 - Martin Dobiasch
-- Stefan Oppl
+- admin
 - Michael Felderer
 - Ruth Breu
 tags: []

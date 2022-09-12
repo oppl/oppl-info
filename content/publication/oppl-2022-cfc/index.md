@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sabrina Oppl
 - Natalia Bachmayer
-- Stefan Oppl
+- admin
 tags: []
 categories: []
 date: '2022-01-01'
