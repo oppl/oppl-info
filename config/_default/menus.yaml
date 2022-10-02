@@ -13,6 +13,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
+  - name: Teaching
+    url: '#teaching'
+    weight: 35
   - name: Talks
     url: '#talks'
     weight: 40
