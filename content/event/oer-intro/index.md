@@ -8,7 +8,7 @@ event_url:
 publishDate: 2022-09-09T00:00:00.000Z
 slides: ""
 url_pdf: ""
-summary: Input held in German at Doctoral Consortium "Bildungsressourcen und Open Educational Resources" of PH Karlsruhe 2022
+summary: Input given in German at Doctoral Consortium "Bildungsressourcen und Open Educational Resources" of PH Karlsruhe 2022
 featured: false
 authors: []
 url_video: ""
