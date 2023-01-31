@@ -48,7 +48,7 @@ email: ""
 ---
 I am a full professor of technology enhanced learning at the Department of Continuing Education Research and Educational Technologies at the University for Continuing Education Krems, Austria. 
 
-I studied computer science and applied knowledge management at the Johannes Kepler University Linz, Austria, and did my PhD in computer science at the Technical University Vienna, Austria in 2010. I have been an assistant/associate professor of business informatics at Johannes Kepler University Linz from 2010 to 2019. In 2016/17, I have been a visiting research fellow at Radboud University Nijmegen, Netherlands. 
+I studied computer science and applied knowledge management at the Johannes Kepler University Linz, Austria, and did my PhD in computer science at the Technical University Vienna, Austria in 2010. I was an assistant/associate professor of business informatics at Johannes Kepler University Linz from 2010 to 2019. In 2016/17, I was a visiting research fellow at Radboud University Nijmegen, Netherlands. 
 
 In 2019, I joined the University for Continuing Education Krems, where I was appointed Dean of the Faculty of Education, Arts and Architecture in 2021.
 
