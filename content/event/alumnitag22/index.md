@@ -10,7 +10,7 @@ summary: Talk given in German at Alumni-Tag 2022 der Universität für Weiterbil
 featured: false
 authors: []
 url_slides: ./uploads/slides/2022_alumni.pdf
-location: Online
+location: Krems, Austria and Online
 tags: []
 projects: []
 all_day: false
