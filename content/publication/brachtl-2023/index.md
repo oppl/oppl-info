@@ -1,5 +1,5 @@
 ---
-title: Physical home-learning environments of traditional and non-traditional students during the COVID pandemic: exploring the impact of learning space on students’ motivation, stress and well-being
+title: Physical home-learning environments of traditional and non-traditional students during the COVID pandemic -  exploring the impact of learning space on students’ motivation, stress and well-being
 subtitle: ""
 publication_types:
   - "2"
