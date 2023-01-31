@@ -20,7 +20,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: 40561.jpg
 summary: ""
 lastmod: 2023-01-30T12:43:11.371Z
