@@ -1,6 +1,5 @@
 ---
-title: Physical home learning environments for digitally-supported learning in
-  academic continuing education during COVID-19 pandemic
+title: Physical home-learning environments of traditional and non-traditional students during the COVID pandemic: exploring the impact of learning space on students’ motivation, stress and well-being
 subtitle: ""
 publication_types:
   - "2"
@@ -24,9 +23,9 @@ image:
   preview_only: true
   filename: 40561.jpg
 summary: ""
-lastmod: 2023-01-31T12:43:11.371Z
+lastmod: 2023-01-30T12:43:11.371Z
 publication: "*Smart Learning Environments*"
 featured: true
 date: 2023-01-01
-publishDate: 2023-01-31T12:43:11.371Z
+publishDate: 2023-01-30T12:43:11.371Z
 ---
